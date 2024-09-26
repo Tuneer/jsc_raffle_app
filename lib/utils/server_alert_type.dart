@@ -1,0 +1,1 @@
+enum ServerAlertType { info, close }

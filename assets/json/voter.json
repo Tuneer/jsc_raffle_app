@@ -1,0 +1,30 @@
+{
+  "status": true,
+  "message": "",
+  "data": {
+    "assembly": "BHOPAL UTTAR",
+    "assemblyType": "GEN",
+    "partName": "LALGHATI",
+    "sectionName": "RAMANAND COLONY LALGHATI",
+    "urbaNorRURAL": "U",
+    "psBuildingName": "GOVT. RAMANAND SANSKRIT COLLEGE LAL GHATI GUPHA MANDIR",
+    "epicid": "MTR3549250",
+    "idCardNo": "MTR3549250",
+    "voterName": "MOHINI DEVI AGRAWAL",
+    "age": "68",
+    "sex": "F     ",
+    "relativeType": "H",
+    "relativeName": "GOVIND VALLBH ",
+    "houseNo": "1",
+    "dob": "21/02/1955",
+    "statusType": "N",
+    "voterAddress": "",
+    "slotName": "9 AM to 9.30 AM",
+    "qrcode": "MTR3549250.png",
+    "photoPath": "MTR3549250.png",
+    "voterPhotoPath": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "psBuildingAddress": "GOVT. RAMANAND SANSKRIT COLLEGE LAL GHATI GUPHA MANDIR",
+    "electionDate": "30/10/2023",
+    "token": null
+  }
+}
